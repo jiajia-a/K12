@@ -1,6 +1,6 @@
 export default {
 	// 线上
-	baseApi: 'https://www.oktamall.com'
+	baseApi: 'http://jsonplaceholder.typicode.com'
 
 	//本地测试
 	// baseApi: 'http://localhost:8081'
